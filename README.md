@@ -1,1 +1,1 @@
-# Crave Crusher Backend Server# mongoose-server-ready
+# mongoose-server-ready
